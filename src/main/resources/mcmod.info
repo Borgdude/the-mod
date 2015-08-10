@@ -1,0 +1,16 @@
+[
+{
+  "modid": "the_mod",
+  "name": "The M0d",
+  "description": "xxx_THEM0D_xxx",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PUSSYSLAYER"],
+  "credits": "da PUSSY",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

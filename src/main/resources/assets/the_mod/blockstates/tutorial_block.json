@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "the_mod:tutorial_block" }
+    }
+}
